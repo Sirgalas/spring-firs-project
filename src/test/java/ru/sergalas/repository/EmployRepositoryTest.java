@@ -1,14 +1,11 @@
-package ru.sergalas.first.repository;
+package ru.sergalas.repository;
 
-import org.hamcrest.MatcherAssert;
-import org.hamcrest.collection.IsCollectionWithSize;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import ru.sergalas.first.IntegrationTestBase;
-import ru.sergalas.first.entity.EmployeeEntity;
-import ru.sergalas.first.projection.EmployeeNameView;
-import ru.sergalas.first.projection.EmployeeNativeView;
+import ru.sergalas.IntegrationTestBase;
+import ru.sergalas.entity.EmployeeEntity;
+import ru.sergalas.projection.EmployeeNameView;
+import ru.sergalas.projection.EmployeeNativeView;
 
 import java.util.List;
 import java.util.Optional;

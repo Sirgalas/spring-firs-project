@@ -1,12 +1,12 @@
-package ru.sergalas.first.repository;
+package ru.sergalas.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
-import ru.sergalas.first.entity.EmployeeEntity;
-import ru.sergalas.first.projection.EmployeeNameView;
-import ru.sergalas.first.projection.EmployeeNativeView;
+import ru.sergalas.entity.EmployeeEntity;
+import ru.sergalas.projection.EmployeeNameView;
+import ru.sergalas.projection.EmployeeNativeView;
 
 import java.util.List;
 import java.util.Optional;

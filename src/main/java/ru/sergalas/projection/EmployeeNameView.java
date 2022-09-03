@@ -1,4 +1,4 @@
-package ru.sergalas.first.projection;
+package ru.sergalas.projection;
 import org.springframework.beans.factory.annotation.Value;
 
 public interface EmployeeNameView {

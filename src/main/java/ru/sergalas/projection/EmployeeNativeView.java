@@ -1,4 +1,4 @@
-package ru.sergalas.first.projection;
+package ru.sergalas.projection;
 
 public interface EmployeeNativeView {
     Integer getId();

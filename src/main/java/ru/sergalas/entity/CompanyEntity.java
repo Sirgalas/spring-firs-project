@@ -1,4 +1,4 @@
-package ru.sergalas.first.entity;
+package ru.sergalas.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

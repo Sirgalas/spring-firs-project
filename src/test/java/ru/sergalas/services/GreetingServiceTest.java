@@ -1,12 +1,10 @@
-package ru.sergalas.first.services;
+package ru.sergalas.services;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.ActiveProfiles;
-import ru.sergalas.first.IntegrationTestBase;
+import ru.sergalas.IntegrationTestBase;
 
 import static org.junit.jupiter.api.Assertions.*;
 

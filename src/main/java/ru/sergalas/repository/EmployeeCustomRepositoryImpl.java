@@ -1,7 +1,7 @@
-package ru.sergalas.first.repository;
+package ru.sergalas.repository;
 
 import lombok.RequiredArgsConstructor;
-import ru.sergalas.first.entity.EmployeeEntity;
+import ru.sergalas.entity.EmployeeEntity;
 
 import javax.persistence.EntityManager;
 import java.util.Collections;

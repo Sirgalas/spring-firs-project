@@ -1,4 +1,4 @@
-package ru.sergalas.first.repository;
+package ru.sergalas.repository;
 
 import static org.junit.jupiter.api.Assertions.*;
 

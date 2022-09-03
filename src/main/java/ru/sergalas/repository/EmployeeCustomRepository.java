@@ -1,6 +1,6 @@
-package ru.sergalas.first.repository;
+package ru.sergalas.repository;
 
-import ru.sergalas.first.entity.EmployeeEntity;
+import ru.sergalas.entity.EmployeeEntity;
 
 import java.util.List;
 
